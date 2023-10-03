@@ -3,13 +3,13 @@
 -d -odac -W -3 
 </CsOptions>
 <CsInstruments>
-sr = 96000
-ksmps = 128
+sr = 48000
+ksmps = 64
 nchnls = 2
 0dbfs = 1.0
 
 ;-----------------------------------------------------------
-#include "/Users/philippneumann/Documents/Csound/PHN-UDOs.txt"
+#include "/Users/philippneumann/Documents/Csound/UDOs/UDOs-pn.csd"
 ;-----------------------------------------------------------
 instr 1
 
