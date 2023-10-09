@@ -9,7 +9,7 @@ nchnls = 2
 0dbfs = 1.0
 
 ;-----------------------------------------------------------
-#include "/Users/philippneumann/Documents/Csound/UDOs/UDOs-pn.csd"
+#include "/Users/philippneumann/Documents/Csound/csound-UDOs/UDOs-pn.csd"
 ;-----------------------------------------------------------
 instr 1
 
